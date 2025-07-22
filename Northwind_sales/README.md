@@ -1,4 +1,4 @@
-### This is a practice database available on the internet and questions are taken from  Learn SQL website
+### This is a practice dataset available on the internet and questions are taken from  Learn SQL website
 
 Source:    https://www.sql-practice.com/
 
